@@ -4,3 +4,9 @@
   padding: 18px 0 0 0;
   display: flex;
 }
+
+@media (max-width: 767px) {
+  .header__lang-links {
+    padding: 14px 0 0 0;
+  }
+}
