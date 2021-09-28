@@ -1,5 +1,17 @@
 .places__list {
-  margin: 0;
+  margin: 12px 0 92px;
   padding: 0;
   list-style: none;
+}
+
+@media (max-width: 1023px) {
+  .places__list {
+    margin: 11px 0 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places__list {
+    margin: 14px 0 66px;
+  }
 }
