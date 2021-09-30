@@ -3,20 +3,20 @@
   font-weight: 900;
   line-height: 58px;
   text-align: left;
-  margin: 92px auto 40px;
+  margin: 92px 0 40px;
   max-width: 690px;
 }
 
 @media (max-width: 1023px) {
   .intro__title {
-    margin-top: 88px;
+    margin: 88px auto 40px;
     max-width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .intro__title {
-    margin-top: 64px;
+    margin: 64px auto 40px;
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
